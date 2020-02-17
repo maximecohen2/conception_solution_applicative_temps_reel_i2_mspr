@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Region_Capture/Scenes/Get_Texture/Get_Texture (Vuforia).unity
+    guid: 1041b21c66060d34a99e37374cec28a6
   m_configObjects: {}
