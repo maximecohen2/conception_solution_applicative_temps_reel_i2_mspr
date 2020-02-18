@@ -1,19 +1,48 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Share : MonoBehaviour
 {
-    private NativeShare _nativeShare;
+    private Texture2D _texture2D = null;
 
-    private void Start()
+    public UnityEvent onShared = null;
+
+    public void SetScreenshot(Texture2D texture)
     {
-        _nativeShare = new NativeShare();
+        _texture2D = texture;
     }
 
-    public void SharePicture(string pictureName)
+    public void CleanScreenshot()
     {
+        _texture2D = null;
+    }
+    
+    public void SharePicture()
+    {
+        if (_texture2D == null)
+            return;
         
+        string filePath = Path.Combine( Application.temporaryCachePath, "tmpImg.png" );
+        File.WriteAllBytes( filePath, _texture2D.EncodeToPNG() );
+        
+        NativeShare nativeShare = new NativeShare();
+        
+        nativeShare.AddFile(filePath);
+        nativeShare.SetSubject("Subject goes here");
+        nativeShare.SetText("Hello world!");
+        
+        nativeShare.Share();
+        
+        //new NativeShare().AddFile( filePath ).SetSubject( "Subject goes here" ).SetText( "Hello world!" ).Share();
+
+        // Share on WhatsApp only, if installed (Android only)
+        //if( NativeShare.TargetExists( "com.whatsapp" ) )
+        //	new NativeShare().AddFile( filePath ).SetText( "Hello world!" ).SetTarget( "com.whatsapp" ).Share();
+        
+        onShared?.Invoke();
     }
     
 }
