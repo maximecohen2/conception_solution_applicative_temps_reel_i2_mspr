@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dec0444e-f6b0-4d35-8ee3-9fbd6459648a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Region_Capture/Scripts/RenderTextureCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Region_Capture/Scripts/RenderTextureCamera.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vuforia.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Vuforia.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QCAR/somedata16" beforeDir="false" afterPath="$PROJECT_DIR$/QCAR/somedata16" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/NativeShare/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="65" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="132" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Share.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+              <folding>
+                <marker date="1582036650992" expanded="true" signature="6:78" ph="..." />
+                <marker date="1582036650992" expanded="true" signature="114:312" ph="{...}" />
+                <marker date="1582036650992" expanded="true" signature="180:234" ph="{...}" />
+                <marker date="1582036650992" expanded="true" signature="284:305" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/NativeGallery/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-45" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Region_Capture/Scripts/RenderTextureCamera.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="98" column="99" lean-forward="true" selection-start-line="98" selection-start-column="53" selection-end-line="98" selection-end-column="99" />
+              <folding>
+                <marker date="1582041922141" expanded="false" signature="6:98" ph="..." />
+                <marker date="1582041922141" expanded="true" signature="184:3383" ph="{...}" />
+                <marker date="1582041922141" expanded="true" signature="467:515" ph="{...}" />
+                <marker date="1582041922141" expanded="true" signature="531:616" ph="{...}" />
+                <marker date="1582041922141" expanded="true" signature="709:1750" ph="{...}" />
+                <marker date="1582041922141" expanded="true" signature="777:958" ph="{...}" />
+                <marker date="1582041922141" expanded="true" signature="1020:1201" ph="{...}" />
+                <marker date="1582041922141" expanded="true" signature="1235:1394" ph="{...}" />
+                <marker date="1582041922141" expanded="true" signature="1782:2542" ph="{...}" />
+                <marker date="1582041922141" expanded="true" signature="1867:2498" ph="{...}" />
+                <marker date="1582041922141" expanded="true" signature="2581:3038" ph="{...}" />
+                <marker date="1582041922141" expanded="true" signature="3081:3376" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TakeScreenshot.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+              <folding>
+                <marker date="1582043950066" expanded="false" signature="6:95" ph="..." />
+                <marker date="1582043950066" expanded="true" signature="140:1651" ph="{...}" />
+                <marker date="1582043950066" expanded="true" signature="227:281" ph="{...}" />
+                <marker date="1582043950066" expanded="true" signature="286:723" ph="/* IEnumerator RecordFrame() ... */" />
+                <marker date="1582043950066" expanded="true" signature="769:1649" ph="{...}" />
+                <marker date="1582043950066" expanded="true" signature="997:1090" ph="/* ss.ReadPixels( new Rect( 0, 0, Screen.width, Screen.height ), 0, 0 ); ... */" />
+                <marker date="1582043950066" expanded="true" signature="1418:1643" ph="/* Share on WhatsApp only, if installed (Android only) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/NativeGallery/NativeGallery.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="254" column="26" lean-forward="true" selection-start-line="254" selection-start-column="26" selection-end-line="254" selection-end-column="26" />
+              <folding>
+                <marker date="1579025835000" expanded="false" signature="6:84" ph="..." />
+                <marker date="1579025835000" expanded="true" signature="208:22854" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="241:607" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="484:604" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="639:967" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="850:964" ph="{...}" />
+                <marker date="1579025835000" expanded="false" signature="1551:5225" ph="Platform Specific Elements" />
+                <marker date="1579025835000" expanded="false" signature="5228:7145" ph="Runtime Permissions" />
+                <marker date="1579025835000" expanded="true" signature="5332:5814" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="5894:6786" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="6825:6938" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="6974:7133" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="7148:9211" ph="Save Functions" />
+                <marker date="1579025835000" expanded="true" signature="7302:7390" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="7530:7625" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="7756:8285" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="8418:8506" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="8646:8741" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="8875:8963" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="9104:9199" ph="{...}" />
+                <marker date="1579025835000" expanded="false" signature="9214:10830" ph="Load Functions" />
+                <marker date="1579025835000" expanded="true" signature="9292:9421" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="9542:9620" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="9741:9819" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="9941:10019" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="10149:10235" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="10365:10451" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="10582:10668" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="10709:10818" ph="{...}" />
+                <marker date="1579025835000" expanded="false" signature="10833:18667" ph="Internal Functions" />
+                <marker date="1579025835000" expanded="true" signature="11001:11927" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="11091:11906" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="12077:13177" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="12167:13156" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="12606:12893" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="13299:14020" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="14084:15078" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="14241:14607" ph="/* Ensure a unique temporary filename on iOS: ... */" />
+                <marker date="1579025835000" expanded="true" signature="15204:16168" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="15317:16147" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="16310:17020" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="16423:16999" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="16472:16942" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="17094:17438" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="17103:17182" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="17208:17270" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="17299:17361" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="17520:18655" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="17877:18184" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="18207:18309" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="18319:18404" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="18411:18510" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="18533:18585" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="18595:18652" ph="{...}" />
+                <marker date="1579025835000" expanded="false" signature="18670:22852" ph="Utility Functions" />
+                <marker date="1579025835000" expanded="true" signature="18872:20187" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="19771:19929" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="19859:19925" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="19952:20043" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="20053:20166" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="20088:20162" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="20101:20143" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="20258:21738" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="20776:21664" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="20879:21660" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="21105:21509" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="21809:22840" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="22287:22723" ph="{...}" />
+                <marker date="1579025835000" expanded="true" signature="22390:22719" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Region_Capture/Scripts/RenderTextureCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/NativeGallery/NativeGallery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Share.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TakeScreenshot.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Share.cs" />
+        <option value="$PROJECT_DIR$/Assets/Region_Capture/Scripts/RenderTextureCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TakeScreenshot.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.conception_solution_applicative_temps_reel_i2_mspr/.idea/indexLayout.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.conception_solution_applicative_temps_reel_i2_mspr/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="131" />
+    <option name="width" value="1440" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dec0444e-f6b0-4d35-8ee3-9fbd6459648a" name="Default Changelist" comment="" />
+      <created>1582035107417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582035107417</updated>
+      <workItem from="1582035112465" duration="8228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8228000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24986681" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/NativeShare/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Share.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <marker date="1582036650992" expanded="true" signature="6:78" ph="..." />
+            <marker date="1582036650992" expanded="true" signature="114:312" ph="{...}" />
+            <marker date="1582036650992" expanded="true" signature="180:234" ph="{...}" />
+            <marker date="1582036650992" expanded="true" signature="284:305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/NativeGallery/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Region_Capture/Scripts/RenderTextureCamera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="98" column="99" lean-forward="true" selection-start-line="98" selection-start-column="53" selection-end-line="98" selection-end-column="99" />
+          <folding>
+            <marker date="1582041922141" expanded="false" signature="6:98" ph="..." />
+            <marker date="1582041922141" expanded="true" signature="184:3383" ph="{...}" />
+            <marker date="1582041922141" expanded="true" signature="467:515" ph="{...}" />
+            <marker date="1582041922141" expanded="true" signature="531:616" ph="{...}" />
+            <marker date="1582041922141" expanded="true" signature="709:1750" ph="{...}" />
+            <marker date="1582041922141" expanded="true" signature="777:958" ph="{...}" />
+            <marker date="1582041922141" expanded="true" signature="1020:1201" ph="{...}" />
+            <marker date="1582041922141" expanded="true" signature="1235:1394" ph="{...}" />
+            <marker date="1582041922141" expanded="true" signature="1782:2542" ph="{...}" />
+            <marker date="1582041922141" expanded="true" signature="1867:2498" ph="{...}" />
+            <marker date="1582041922141" expanded="true" signature="2581:3038" ph="{...}" />
+            <marker date="1582041922141" expanded="true" signature="3081:3376" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/NativeGallery/NativeGallery.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="254" column="26" lean-forward="true" selection-start-line="254" selection-start-column="26" selection-end-line="254" selection-end-column="26" />
+          <folding>
+            <marker date="1579025835000" expanded="false" signature="6:84" ph="..." />
+            <marker date="1579025835000" expanded="true" signature="208:22854" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="241:607" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="484:604" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="639:967" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="850:964" ph="{...}" />
+            <marker date="1579025835000" expanded="false" signature="1551:5225" ph="Platform Specific Elements" />
+            <marker date="1579025835000" expanded="false" signature="5228:7145" ph="Runtime Permissions" />
+            <marker date="1579025835000" expanded="true" signature="5332:5814" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="5894:6786" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="6825:6938" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="6974:7133" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="7148:9211" ph="Save Functions" />
+            <marker date="1579025835000" expanded="true" signature="7302:7390" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="7530:7625" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="7756:8285" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="8418:8506" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="8646:8741" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="8875:8963" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="9104:9199" ph="{...}" />
+            <marker date="1579025835000" expanded="false" signature="9214:10830" ph="Load Functions" />
+            <marker date="1579025835000" expanded="true" signature="9292:9421" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="9542:9620" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="9741:9819" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="9941:10019" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="10149:10235" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="10365:10451" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="10582:10668" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="10709:10818" ph="{...}" />
+            <marker date="1579025835000" expanded="false" signature="10833:18667" ph="Internal Functions" />
+            <marker date="1579025835000" expanded="true" signature="11001:11927" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="11091:11906" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="12077:13177" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="12167:13156" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="12606:12893" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="13299:14020" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="14084:15078" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="14241:14607" ph="/* Ensure a unique temporary filename on iOS: ... */" />
+            <marker date="1579025835000" expanded="true" signature="15204:16168" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="15317:16147" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="16310:17020" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="16423:16999" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="16472:16942" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="17094:17438" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="17103:17182" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="17208:17270" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="17299:17361" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="17520:18655" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="17877:18184" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="18207:18309" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="18319:18404" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="18411:18510" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="18533:18585" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="18595:18652" ph="{...}" />
+            <marker date="1579025835000" expanded="false" signature="18670:22852" ph="Utility Functions" />
+            <marker date="1579025835000" expanded="true" signature="18872:20187" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="19771:19929" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="19859:19925" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="19952:20043" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="20053:20166" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="20088:20162" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="20101:20143" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="20258:21738" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="20776:21664" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="20879:21660" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="21105:21509" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="21809:22840" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="22287:22723" ph="{...}" />
+            <marker date="1579025835000" expanded="true" signature="22390:22719" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TakeScreenshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <marker date="1582043950066" expanded="false" signature="6:95" ph="..." />
+            <marker date="1582043950066" expanded="true" signature="140:1651" ph="{...}" />
+            <marker date="1582043950066" expanded="true" signature="227:281" ph="{...}" />
+            <marker date="1582043950066" expanded="true" signature="286:723" ph="/* IEnumerator RecordFrame() ... */" />
+            <marker date="1582043950066" expanded="true" signature="769:1649" ph="{...}" />
+            <marker date="1582043950066" expanded="true" signature="997:1090" ph="/* ss.ReadPixels( new Rect( 0, 0, Screen.width, Screen.height ), 0, 0 ); ... */" />
+            <marker date="1582043950066" expanded="true" signature="1418:1643" ph="/* Share on WhatsApp only, if installed (Android only) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
