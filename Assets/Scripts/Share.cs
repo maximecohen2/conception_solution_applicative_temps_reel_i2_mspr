@@ -6,6 +6,9 @@ using UnityEngine.Events;
 
 public class Share : MonoBehaviour
 {
+    [SerializeField, Multiline, Tooltip("sets the shared text. Note that the Facebook app will omit text, if exists.")]
+    private string text = "#cerealis #coloring #AR";
+    
     private Texture2D _texture2D = null;
 
     public UnityEvent onShared = null;
@@ -31,8 +34,8 @@ public class Share : MonoBehaviour
         NativeShare nativeShare = new NativeShare();
         
         nativeShare.AddFile(filePath);
-        nativeShare.SetSubject("Subject goes here");
-        nativeShare.SetText("Hello world!");
+        //nativeShare.SetSubject("Subject goes here");
+        nativeShare.SetText(text);
         
         nativeShare.Share();
         
